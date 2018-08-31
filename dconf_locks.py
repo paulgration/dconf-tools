@@ -1,3 +1,4 @@
+#!/usr/bin/env python2
 """
 Generate a dconf locks file from file or stdin
 """

@@ -1,3 +1,4 @@
+#!/usr/bin/env python2
 """
 Sort sections and key/value pairs in output from dconf dump to make comparing easier
 """
